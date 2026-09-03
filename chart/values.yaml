@@ -1,4 +1,2 @@
-image:
-  repository: nginx
-  tag:
-    - 1.20.0
+collector:
+  image: otel/opentelemetry-collector-contrib:0.139.0
