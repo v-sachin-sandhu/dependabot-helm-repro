@@ -1,2 +1,2 @@
 collector:
-  image: otel/opentelemetry-collector-contrib:0.139.0
+  image: otel/opentelemetry-collector-contrib:0.160.0
